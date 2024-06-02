@@ -1,0 +1,132 @@
+# Node modules (if using Node.js for package management)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (if using Parcel)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+dist/
+
+# Vuepress build output
+.vuepress/dist
+
+# Gatsby files
+.cache/
+# Comment in the public line in if your project uses Gatsby and not Next.js
+# public
+
+# Uncomment if using static site generators
+# public/
+# dist/
+
+# Docusaurus
+.build/
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Compiled source
+lib/
+lib64/
+out/
+dist/
+build/
+bin/
+target/
+
+# Coverage
+coverage/
+*.lcov
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Temporary files
+*.swp
+*~
+.project
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files created by Visual Studio Code
+.vscode/
+
+# Mac specific files
+.DS_Store
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# SASS cache
+.sass-cache/
+
+# dotenv files
+.env
+.env.*.local
+
+# Ignore JetBrains IDEs config
+.idea/
+*.iml
+
+# Ignore AWS SAM CLI folder
+.aws-sam/
